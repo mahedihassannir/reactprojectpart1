@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "642c155b2c4774f05c36eeaa",
+    "name": "Bag",
+    "description": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Fashion",
+    "price": 450
+  },
+  {
+    "_id": "743d2a601f61b8e0c47efc21",
+    "name": "Shoes",
+    "description": "Elegant black leather shoes with a modern twist, perfect for any formal occasion.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Fashion",
+    "price": 120
+  },
+  {
+    "_id": "832e3bf9a452cd65b88d92e5",
+    "name": "Hat",
+    "description": "Stylish fedora hat made from premium wool, suitable for both men and women.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Fashion",
+    "price": 65
+  },
+  {
+    "_id": "9a45f836c2d88b7103e6af74",
+    "name": "Dress",
+    "description": "Floral print sundress with adjustable straps, ideal for summer outings.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Fashion",
+    "price": 75
+  },
+  {
+    "_id": "a7c18b6e4f20d93ecb223c09",
+    "name": "Watch",
+    "description": "Sleek stainless steel watch with a minimalist design, suitable for any occasion.",
+    "image": "https://static-01.daraz.com.bd/p/38c5db8fc4558e8e169f89e53a6d21e8.jpg",
+    "category": "Fashion",
+    "price": 200
+  }
+]
